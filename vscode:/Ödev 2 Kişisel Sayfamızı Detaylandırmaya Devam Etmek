@@ -1,0 +1,55 @@
+Ödev 2 Kişisel Sayfamızı Detaylandırmaya Devam Etmek
+
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+ content="width=device-width,
+ initial-scale=1.0">
+ <!-- Bir web site oluşturulucak -->
+<title>İlk Web Sayfamızı Oluşturmak</title>
+</head>    
+<body>
+    <!-- Başlık oluşturulucak -->
+<h1>MUSTAFA BAYRAM</h1>
+<!-- Alt başlık oluşturulucak -->
+<h2>Hakkımda</h2>
+<!-- Hakkımda hakkında kısa bir paragraf yazılıcak -->
+<p>Merhaba, benim adım Mustafa bayram ben manisa da yaşıyorum. Üniversite 2.sınıf öğrendisiyim.
+    Dini kitaplar okumayı, bana fayda sağlayacak videolar izlemeyi seviyorum. Ben frontend developer olmak istiyorum.
+ve şuanda bu yolda hız kesmeden devam ediyorum...  </p>
+<!-- Bir alt başlık daha oluşturulucak -->
+<h3>Sevdiğim Kitaplar</h3>
+<!-- Sevdiğim kitaplar hakkında kısa bir paragraf yazılıcak -->
+<p>Sahabe İklimi: Peygamber efendimiz (sav) in ashabının yani halkının hayatını kısa kısa anlatan Muhammed emin Yıldırım
+    hocam 82 ilin her birinde bir sahabe efendimizi anlatıyor ve okunması gereken sade ve akıcı bir dille yazılmış bir eserdir.
+    Bu kitapta beni en çok derinden etkiyen sahabe efendimiz Hz. Hüseyin(ra) efendimizdir. kısaca anlatmam gerekirse;
+    Hz Hüseyin (ra) Peygamber efendimizin torunudur ve kerbela da şehit edilmiştir. Kerbela olayı; Hz Hüseyin'in ordusunda bulunan 70 adama karşılık, Yezid'in 
+    ordusunda 4500 kişi olduğundan bu mücadele, Hz. Hüseyin(ra) ve beraberindekilerin şehit edilmesiyele sonuçlandı.
+    Hz. Hüseyin(ra) ailesi esir alındı ve kanlı bir şekilde biten bu olay, tarihe Kerbela Olayı (Katliamı) olarak geçti.
+</p>
+<h3>Sevdiğim Diziler</h3>
+<ol>
+    <li>Mahkum</li>
+    <li>Teşkilat</li>
+</ol>
+<h3>Sevdiğim Kitaplar</h3>
+<ul>
+    <li>Sahabe İklimi</li>
+    <li>Paranın Psikolojisi</li>
+    <li>İşimiz Vaktimizden Çok </li>
+</ul>
+<h2>Sevdiğim Filmler </h2>
+<p> <strong>The GodFather</strong> </p>
+<a href="https://images.sr.roku.com/idType/roku/context/global/id/b1a61ac5b7855083b5cd2ba6d13a7180/images/gracenote/assets/p6326_v_v12_bf.jpg/magic/396x0/filters:quality(70)">
+    <img width="540" height="540" src="İmages/The GodFather.jpg" alt="The GodFather Görseli">
+</a>
+
+    <p> 
+     The GodFather: Yapımcı firma Paramount Pictures başarılı olacağından emin olamadığı için film, 6 milyon dolar gibi oldukça düşük bir bütçeyle çekildi. Filmin çekimleri 29 Mart - 6 Ağustos 1972 tarihleri arasında yapıldı. Çekimler, Francis Ford Coppola ile Paramount Pictures arasındaki gerginlikle başladı.
+    </p>
+
+
+
+</body>
+</html>
